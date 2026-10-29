@@ -5,7 +5,7 @@ package v2;
  * Programmed by: <Zyrell Kent R Oloroso> <BSIT> <48079> <Data Structures and Algorithms>
  * Last Modified: October 23, 2026
  * Version: 2.0
- * [Acknowledgements: <I used claude to guide me on connecting it to github>]
+ * [Acknowledgements: <I used claude to draft the code and guide me on connecting it to github>]
  */
 import java.util.Scanner;
 import java.util.Stack;
